@@ -1,0 +1,15 @@
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\bin\Debug\net9.0\C#_Session2.exe
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\bin\Debug\net9.0\C#_Session2.deps.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\bin\Debug\net9.0\C#_Session2.runtimeconfig.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\bin\Debug\net9.0\C#_Session2.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\bin\Debug\net9.0\C#_Session2.pdb
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.AssemblyInfoInputs.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.AssemblyInfo.cs
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.csproj.CoreCompileInputs.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.sourcelink.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\refint\C#_Session2.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.pdb
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\C#_Session2.genruntimeconfig.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\C#_Session2\C#_Session2\obj\Debug\net9.0\ref\C#_Session2.dll
