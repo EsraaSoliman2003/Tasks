@@ -1,0 +1,15 @@
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\bin\Debug\net9.0\OOP_Task3.exe
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\bin\Debug\net9.0\OOP_Task3.deps.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\bin\Debug\net9.0\OOP_Task3.runtimeconfig.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\bin\Debug\net9.0\OOP_Task3.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\bin\Debug\net9.0\OOP_Task3.pdb
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.AssemblyInfoInputs.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.AssemblyInfo.cs
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.csproj.CoreCompileInputs.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.sourcelink.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\refint\OOP_Task3.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.pdb
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\OOP_Task3.genruntimeconfig.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\OOP_Task3\OOP_Task3\obj\Debug\net9.0\ref\OOP_Task3.dll
