@@ -1,0 +1,15 @@
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\bin\Debug\net9.0\Project_OOP.exe
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\bin\Debug\net9.0\Project_OOP.deps.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\bin\Debug\net9.0\Project_OOP.runtimeconfig.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\bin\Debug\net9.0\Project_OOP.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\bin\Debug\net9.0\Project_OOP.pdb
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.AssemblyInfoInputs.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.AssemblyInfo.cs
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.sourcelink.json
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\refint\Project_OOP.dll
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.pdb
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\Project_OOP.genruntimeconfig.cache
+C:\Users\Esraa Soliman\OneDrive - FEE-MU\Desktop\رواد مصر الرقميه\جتهب\Project_OOP\Project_OOP\obj\Debug\net9.0\ref\Project_OOP.dll
